@@ -26,11 +26,48 @@ Todo:
 
 **Elaborate description of proposed devroom (including possible topics)**:
 
-Talks regarding the Nim programming language, similar to Nim Conferences in 2020 and 2021.
+Nim is a versatile language that can both be compiled to low-level languages
+like C/C++/ObjC and to the web-oriented language JavaScript. This, along with
+it's rich, static type system, tuneable and optional GC, and its rich
+meta-programming system the language offers something for everyone. Being used
+for everything from programming the tiniest micro-controllers to
+high-performance applications and even creating rich interactive websites. Its
+unique combination of features and the aforementioned meta-programming makes it
+feel at home in pretty much every programming niche.
+
+Looking back at the talks FOSDEM has had about Nim in the past we expect a
+varied selection of talks ranging from the design of the language and compiler
+itself by core developers all the way to the many aforementioned use-cases for
+such a language. Previous FOSDEM talks:
+
+- [Nim on everything, from microcontrollers to web-sites, C and JS as intermediary languages](https://archive.fosdem.org/2020/schedule/event/nimoneverything/)
+- [Move semantics in Nim, Deterministic Memory Management](https://archive.fosdem.org/2020/schedule/event/nimmovesemantics/)
+- [Designing an ultra low-overhead multithreading runtime for Nim, Exposing fine-grained parallelism for 32+ cores hardware via message passing](https://archive.fosdem.org/2020/schedule/event/nimultralowoverheadruntime/)
+- [Async await in Nim, A demonstration of the flexibility metaprogramming can bring to a language](https://archive.fosdem.org/2020/schedule/event/asyncawaitnim/)
+- [Metaprogramming with Nim](https://archive.fosdem.org/2019/schedule/event/nim_metaprogramming/)
+- [How to build your own Ethereum client, The development story of Nimbus](https://archive.fosdem.org/2019/schedule/event/nimbus/)
 
 **Why does it fit FOSDEM?**
 
-Nim is an Open Source programming language in which many Open Source projects are made. It has been part of FOSDEM in the past, having a room together with other lesser-known languages, and now it's grown enough to have its own room.
+The Nim programming language first saw the light of day in 2008, and has been
+in active development ever since. In more recent years it has reached stable
+versions with v1.0 in 2019, and the latest version v1.6.0 released late 2021.
+The language has been open source since it's very beginning, and is being
+developed by a group of volounteers along with a few developers paid by
+donations from the community. The Nim community itself has traditionally been
+very Euro-centric, with most of the core developers and users from Europe.
+FOSDEM has previouvsly been an annual meeting ground for Nim users where many
+have been able to put a face to the nicknames we interact with every day for
+the first time. With this following there is also the possibility to transition
+into a future physical room in the future once FOSDEM is back to being a
+physical event.
+
+The Nim community has also organised its own conference, NimConf2020 and
+NimConf2021, and the people behind this proposal have already helped out with
+organising the "Minimalistic, Experimental and Emerging Languages devroom" at
+FOSDEM 2020. This means that we're confident that the Nim language devroom at
+FOSDEM 2022 will be a great success with high quality talks offering something
+for everyone, not only existing Nim programmers.
 
 ## Contact Information
 
