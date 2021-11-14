@@ -12,8 +12,8 @@ Todo:
 - [x] create room in Matrix/Discord: https://matrix.to/#/#nim-fosdem:matrix.org
 - [ ] improve description of devroom
 - [x] improve why does it fit fosdem
-- [ ] who is Primary Contact?
-- [ ] fill in "Submitter’s affinity to the topic of the devroom" for Primary Contact
+- [x] who is Primary Contact?
+- [x] fill in "Submitter’s affinity to the topic of the devroom" for Primary Contact
 - [ ] who is Secondary Contact?
 - [ ] additional pentabarf ids?
 - [ ] more relevant links?
@@ -36,15 +36,15 @@ Nim is an Open Source programming language in which many Open Source projects ar
 
 ### Primary contact
 
-**Pentabarf username of devroom primary**:
+**Pentabarf username of devroom primary**: dom96
 
-**First name**
+**First name** Dominik
 
-**Last name**
+**Last name** Picheta
 
 **E-mail**: *we can skip this in this repo*
 
-**Submitter’s affinity to the topic of the devroom**:
+**Submitter’s affinity to the topic of the devroom**: Core Developer
 
 ### Secondary contact
 
