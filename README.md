@@ -12,8 +12,8 @@ Todo:
 - [x] create room in Matrix/Discord: https://matrix.to/#/#nim-fosdem:matrix.org
 - [ ] improve description of devroom
 - [x] improve why does it fit fosdem
-- [ ] who is Primary Contact?
-- [ ] fill in "Submitter’s affinity to the topic of the devroom" for Primary Contact
+- [x] who is Primary Contact?
+- [x] fill in "Submitter’s affinity to the topic of the devroom" for Primary Contact
 - [ ] who is Secondary Contact?
 - [ ] additional pentabarf ids?
 - [ ] more relevant links?
