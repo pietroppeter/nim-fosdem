@@ -36,11 +36,11 @@ Nim is an Open Source programming language in which many Open Source projects ar
 
 ### Primary contact
 
-**Pentabarf username of devroom primary**:
+**Pentabarf username of devroom primary**: dom96
 
-**First name**
+**First name** Dominik
 
-**Last name**
+**Last name** Picheta
 
 **E-mail**: *we can skip this in this repo*
 
