@@ -9,7 +9,7 @@ The form needs to be submitted by tomorrow (November 15).
 
 Todo:
 
-- [ ] create room in Matrix/Discord
+- [x] create room in Matrix/Discord: https://matrix.to/#/#nim-fosdem:matrix.org
 - [ ] improve description of devroom
 - [x] improve why does it fit fosdem
 - [ ] who is Primary Contact?
