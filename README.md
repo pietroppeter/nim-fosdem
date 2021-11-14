@@ -54,7 +54,7 @@ Nim is an Open Source programming language in which many Open Source projects ar
 
 **E-mail**: *we can skip this in this repo*
 
-**Additional pentabarf ids:** pietroppeter, 
+**Additional pentabarf ids:** pietroppeter, federico3
 
 ## Additional information
 
