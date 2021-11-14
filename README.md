@@ -11,7 +11,7 @@ Todo:
 
 - [ ] create room in Matrix/Discord
 - [ ] improve description of devroom
-- [ ] improve why does it fit fosdem
+- [x] improve why does it fit fosdem
 - [ ] who is Primary Contact?
 - [ ] fill in "Submitter’s affinity to the topic of the devroom" for Primary Contact
 - [ ] who is Secondary Contact?
@@ -26,11 +26,11 @@ Todo:
 
 **Elaborate description of proposed devroom (including possible topics)**:
 
-Talks regarding Nim programming language, similar to Nim Conferences in 2020 and 2021.
+Talks regarding the Nim programming language, similar to Nim Conferences in 2020 and 2021.
 
 **Why does it fit FOSDEM?**
 
-Nim is an Open Source project and it has been part of FOSDEM in the past.
+Nim is an Open Source programming language in which many Open Source projects are made. It has been part of FOSDEM in the past, having a room together with other lesser-known languages, and now it's grown enough to have its own room.
 
 ## Contact Information
 
