@@ -10,14 +10,14 @@ The form needs to be submitted by tomorrow (November 15).
 Todo:
 
 - [x] create room in Matrix/Discord: https://matrix.to/#/#nim-fosdem:matrix.org
-- [ ] improve description of devroom
+- [x] improve description of devroom
 - [x] improve why does it fit fosdem
 - [x] who is Primary Contact?
 - [x] fill in "Submitter’s affinity to the topic of the devroom" for Primary Contact
-- [ ] who is Secondary Contact?
-- [ ] additional pentabarf ids?
-- [ ] more relevant links?
-- [ ] special requirements?
+- [x] who is Secondary Contact?
+- [x] additional pentabarf ids?
+- [x] more relevant links?
+- [x] special requirements?
 - [ ] **Submit by 23.59 UTC of Nov 15 2021**
 
 ## Project Details
@@ -30,7 +30,7 @@ Talks regarding the Nim programming language, similar to Nim Conferences in 2020
 
 **Why does it fit FOSDEM?**
 
-Nim is an Open Source programming language in which many Open Source projects are made. It has been part of FOSDEM in the past, having a room together with other lesser-known languages, and now it's grown enough to have its own room.
+Nim is an open source programming language in which many open source projects are made. It has been part of FOSDEM in the past having a room together with other lesser-known languages. Now, it's grown enough to have its own room.
 
 ## Contact Information
 
@@ -44,17 +44,17 @@ Nim is an Open Source programming language in which many Open Source projects ar
 
 **E-mail**: *we can skip this in this repo*
 
-**Submitter’s affinity to the topic of the devroom**: Core Developer
+**Submitter’s affinity to the topic of the devroom**: core developer, author of “Nim in Action” book
 
 ### Secondary contact
 
-**First name**
+**First name** Pietro
 
-**Last name**
+**Last name** Peterlongo
 
 **E-mail**: *we can skip this in this repo*
 
-**Additional pentabarf ids:** pietroppeter, federico3
+**Additional pentabarf ids:** pietroppeter, federico3, moigagoo
 
 ## Additional information
 
