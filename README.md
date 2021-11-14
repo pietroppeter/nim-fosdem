@@ -13,6 +13,7 @@ Todo:
 - [ ] improve description of devroom
 - [ ] improve why does it fit fosdem
 - [ ] who is Primary Contact?
+- [ ] fill in "Submitter’s affinity to the topic of the devroom" for Primary Contact
 - [ ] who is Secondary Contact?
 - [ ] additional pentabarf ids?
 - [ ] more relevant links?
