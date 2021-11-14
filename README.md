@@ -44,7 +44,7 @@ Nim is an Open Source programming language in which many Open Source projects ar
 
 **E-mail**: *we can skip this in this repo*
 
-**Submitter’s affinity to the topic of the devroom**:
+**Submitter’s affinity to the topic of the devroom**: Core Developer
 
 ### Secondary contact
 
