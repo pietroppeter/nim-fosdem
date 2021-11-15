@@ -100,6 +100,7 @@ for everyone, not only existing Nim programmers.
 - pietroppeter
 - federico3
 - moigagoo
+- xigoi
 
 ## Additional information
 
