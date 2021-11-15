@@ -40,12 +40,13 @@ varied selection of talks ranging from the design of the language and compiler
 itself by core developers all the way to the many aforementioned use-cases for
 such a language. Previous FOSDEM talks:
 
-- [Nim on everything, from microcontrollers to web-sites, C and JS as intermediary languages](https://archive.fosdem.org/2020/schedule/event/nimoneverything/)
-- [Move semantics in Nim, Deterministic Memory Management](https://archive.fosdem.org/2020/schedule/event/nimmovesemantics/)
-- [Designing an ultra low-overhead multithreading runtime for Nim, Exposing fine-grained parallelism for 32+ cores hardware via message passing](https://archive.fosdem.org/2020/schedule/event/nimultralowoverheadruntime/)
-- [Async await in Nim, A demonstration of the flexibility metaprogramming can bring to a language](https://archive.fosdem.org/2020/schedule/event/asyncawaitnim/)
-- [Metaprogramming with Nim](https://archive.fosdem.org/2019/schedule/event/nim_metaprogramming/)
-- [How to build your own Ethereum client, The development story of Nimbus](https://archive.fosdem.org/2019/schedule/event/nimbus/)
+- [(2021) Nim meta-programming for 0-cost abstraction on microcontrollers](https://archive.fosdem.org/2021/schedule/event/nimdsl/)
+- [(2020) Nim on everything, from microcontrollers to web-sites, C and JS as intermediary languages](https://archive.fosdem.org/2020/schedule/event/nimoneverything/)
+- [(2020) Move semantics in Nim, Deterministic Memory Management](https://archive.fosdem.org/2020/schedule/event/nimmovesemantics/)
+- [(2020) Designing an ultra low-overhead multithreading runtime for Nim, Exposing fine-grained parallelism for 32+ cores hardware via message passing](https://archive.fosdem.org/2020/schedule/event/nimultralowoverheadruntime/)
+- [(2020) Async await in Nim, A demonstration of the flexibility metaprogramming can bring to a language](https://archive.fosdem.org/2020/schedule/event/asyncawaitnim/)
+- [(2019) Metaprogramming with Nim](https://archive.fosdem.org/2019/schedule/event/nim_metaprogramming/)
+- [(2019) How to build your own Ethereum client, The development story of Nimbus](https://archive.fosdem.org/2019/schedule/event/nimbus/)
 
 **Why does it fit FOSDEM?**
 
