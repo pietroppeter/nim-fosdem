@@ -14,7 +14,7 @@ Todo:
 - [x] improve why does it fit fosdem
 - [x] who is Primary Contact?
 - [x] fill in "Submitter’s affinity to the topic of the devroom" for Primary Contact
-- [ ] who is Secondary Contact?
+- [x] who is Secondary Contact?
 - [ ] additional pentabarf ids?
 - [ ] more relevant links?
 - [ ] special requirements?
@@ -48,13 +48,19 @@ Nim is an Open Source programming language in which many Open Source projects ar
 
 ### Secondary contact
 
-**First name**
+**First name** Peter
 
-**Last name**
+**Last name** Munch-Ellingsen
 
 **E-mail**: *we can skip this in this repo*
 
-**Additional pentabarf ids:** pietroppeter, federico3
+*(At least the pentabarf username for the secondary contact should be added. If you want to add multiple contacts, write their pentabarf username, one per line.)*
+
+**Additional pentabarf ids:**
+
+- PMunch
+- pietroppeter
+- federico3
 
 ## Additional information
 
