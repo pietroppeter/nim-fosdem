@@ -26,11 +26,11 @@ Todo:
 
 **Elaborate description of proposed devroom (including possible topics)**:
 
-Nim is a versatile language that can both be compiled to low-level languages
+Nim is a versatile language that can be both compiled to low-level languages
 like C/C++/ObjC and to the web-oriented language JavaScript. This, along with
-it's rich, static type system, tuneable and optional GC, and its rich
-meta-programming system the language offers something for everyone. Being used
-for everything from programming the tiniest micro-controllers to
+it's rich, static type system, optional and tunable GC, and its rich
+meta-programming system, means that the language offers something for everyone.
+Being used for everything from programming the tiniest micro-controllers to
 high-performance applications and even creating rich interactive websites. Its
 unique combination of features and the aforementioned meta-programming makes it
 feel at home in pretty much every programming niche.
@@ -50,17 +50,17 @@ such a language. Previous FOSDEM talks:
 **Why does it fit FOSDEM?**
 
 The Nim programming language first saw the light of day in 2008, and has been
-in active development ever since. In more recent years it has reached stable
-versions with v1.0 in 2019, and the latest version v1.6.0 released late 2021.
-The language has been open source since it's very beginning, and is being
-developed by a group of volounteers along with a few developers paid by
-donations from the community. The Nim community itself has traditionally been
-very Euro-centric, with most of the core developers and users from Europe.
-FOSDEM has previouvsly been an annual meeting ground for Nim users where many
-have been able to put a face to the nicknames we interact with every day for
-the first time. With this following there is also the possibility to transition
-into a future physical room in the future once FOSDEM is back to being a
-physical event.
+developed actively as an open source project ever since. In more recent years
+it has reached the milestone 1.0 release in 2019, with latest version 1.6.0
+released late 2021. The language has been open source since it's very
+beginning, and is being developed by a group of volunteers along with a core
+team of developers paid by donations from the community. The Nim community
+itself has traditionally been very Euro-centric, with most of the core
+developers and users from Europe. FOSDEM has previously been an annual meeting
+ground for Nim users where many have been able to put a face to the nicknames
+we interact with every day for the first time. With this userbase there is also
+the possibility to transition into a physical room once FOSDEM is back
+to being a physical event.
 
 The Nim community has also organised its own conference, NimConf2020 and
 NimConf2021, and the people behind this proposal have already helped out with
