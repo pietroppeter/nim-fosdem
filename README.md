@@ -60,8 +60,9 @@ Nim is an Open Source programming language in which many Open Source projects ar
 
 **Relevant URLs**:
 
-https://nim-lang.org
-https://conf.nim-lang.org
+- [Nim website](https://nim-lang.org)
+- [Nim Conf 2021](https://conf.nim-lang.org)
+- [Nim Conf 2020](https://conf.nim-lang.org/2020/)
 
 **Special requirements**:
 
