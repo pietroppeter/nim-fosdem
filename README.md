@@ -10,13 +10,13 @@ The form needs to be submitted by tomorrow (November 15).
 Todo:
 
 - [x] create room in Matrix/Discord: https://matrix.to/#/#nim-fosdem:matrix.org
-- [ ] improve description of devroom
+- [x] improve description of devroom
 - [x] improve why does it fit fosdem
-- [x] who is Primary Contact?
+- [x] who is Primary Contact? Dom
 - [x] fill in "Submitter’s affinity to the topic of the devroom" for Primary Contact
-- [x] who is Secondary Contact?
-- [ ] additional pentabarf ids?
-- [ ] more relevant links?
+- [x] who is Secondary Contact? Pmunch
+- [x] additional pentabarf ids? ok for now
+- [x] more relevant links? nothing more comes to mind
 - [ ] special requirements?
 - [ ] **Submit by 23.59 UTC of Nov 15 2021**
 
