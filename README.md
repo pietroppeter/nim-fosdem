@@ -99,6 +99,7 @@ for everyone, not only existing Nim programmers.
 - PMunch
 - pietroppeter
 - federico3
+- moigagoo
 
 ## Additional information
 
