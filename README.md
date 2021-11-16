@@ -17,12 +17,12 @@ Todo:
 - [x] who is Secondary Contact? Pmunch
 - [x] additional pentabarf ids? ok for now
 - [x] more relevant links? nothing more comes to mind
-- [ ] special requirements?
-- [ ] **Submit by 23.59 UTC of Nov 15 2021**
+- [x] special requirements? no
+- [x] **Submit by 23.59 UTC of Nov 15 2021** 🥳
 
 ## Project Details
 
-**Title of devroom**: Nim
+**Title of devroom**: Nim Programming Language
 
 **Elaborate description of proposed devroom (including possible topics)**:
 
