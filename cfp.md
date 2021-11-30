@@ -11,19 +11,23 @@ meeting place for developers of free and open source software from across all of
 the world, hosted normally in Brussels in Belgium. The event itself is a massive
 conference spanning two days with thousands of visitors and hundreds of talks on
 various topics. This year, as last year, the conference will be completely
-digital.
+online.
 
 ## Call for Participation
 Since we now have our own room to fill we invite our great community to submit
-their talks. Since the event is digital all presentations will be pre-recorded,
+their talks. The event will be online and all presentations will be pre-recorded,
 but you are required to be present during your presentation and for some time
-after to answer any questions. This is similar to how we've run NimConf for the
-past two years so we have no doubt that this will work very well and that we'll
-have the same excellent level of quality that we've come to expect from you!
+after to answer any questions. This is similar to how we have run NimConf for the
+past two years so we have no doubt that this will work very well and that we will
+have the same excellent level of quality that we have come to expect from you!
 
-All submissions have to be made through the [FOSDEM
-pentabarf](https://penta.fosdem.org/) system, and make sure to select "Nim
-Programming Language" when submitting (otherwise we won't find it).
+To submit your talk you will need to create a pentabarf account (if you do not already have one)
+and make the submission through the [FOSDEM
+pentabarf](https://penta.fosdem.org/submission/) system.
+Pentabarf is the official name of the FOSDEM talk submission and management system
+(see [beginner's guide](https://medium.com/@maartjeme/beginners-guide-to-pentabarf-78808a1ce5bf)).
+Make sure to select "Nim
+Programming Language" when submitting (otherwise we will not be able to find it).
 
 ### What are we looking for?
 Pretty much anything related to Nim! From compiler development to projects
