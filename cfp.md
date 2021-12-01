@@ -47,7 +47,7 @@ talks](https://www.youtube.com/channel/UCDAYn_VFt0VisL5-1a5Dk7Q):
 ### Requirements
 To be able to submit a talk you _must_ fulfil these formal requirements:
 
-- you should target a **talk duration** of 15' or 30'. We are also open to durations up to 45' for talks with a bigger scope.
+- you should target a **talk duration** of 15 or 30 minutes. We are also open to durations up to 45 minutes for talks with a bigger scope, but we would encourage sticking to 15/30 minute durations.
   We should be able to accomodate for durations that do not exactly hit the target.
 - Be able to pre-record a talk in advance. In order for us to verify the content
 all videos must be submitted by January 22nd.
