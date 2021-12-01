@@ -57,13 +57,13 @@ presentation and the ensuing Q&A.
 ### Deadlines
 - Submission of talk: Dec 23rd, 2021
 - Selected talks announced: Dec 31st 2021
-- Conference dates 5 & 6 February 
+- Conference dates 5 & 6 February
 - The Nim language devroom is on the 5th
 - Video recording submission: January 22nd
 
-All deadline times are 23.59 UTC.
+All deadline times are 23:59 UTC.
 
 ### Final remarks
 
-- make sure to check out [FOSDEM Code of Conduct](https://fosdem.org/2022/practical/conduct/)
-- for any questions about this call for participation you can reach us in [#fosdem channel](https://discord.com/channels/371759389889003530/909464670098833409) on our Nim Discord (also available in Matrix as "[Nim FOSDEM](https://matrix.to/#/#nim-fosdem:matrix.org)")
+- Make sure to check out the [FOSDEM Code of Conduct](https://fosdem.org/2022/practical/conduct/).
+- For any questions about this call for participation you can reach out to us in the [#fosdem channel](https://discord.com/channels/371759389889003530/909464670098833409) on our Nim Discord (also available through Matrix as "[Nim FOSDEM](https://matrix.to/#/#nim-fosdem:matrix.org)").
