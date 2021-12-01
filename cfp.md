@@ -47,15 +47,23 @@ talks](https://www.youtube.com/channel/UCDAYn_VFt0VisL5-1a5Dk7Q):
 ### Requirements
 To be able to submit a talk you _must_ fulfil these formal requirements:
 
-- TODO Talk duration?
+- you should target a **talk duration** of 15 or 30 minutes. We are also open to durations up to 45 minutes for talks with a bigger scope, but we would encourage sticking to 15/30 minute durations.
+  We should be able to accommodate for durations that do not exactly hit the target.
 - Be able to pre-record a talk in advance. In order for us to verify the content
-all videos must be submitted to us within mid-January. TODO Discuss time
+all videos must be submitted by January 22nd.
 - Since FOSDEM is held during European day hours you need to be available for your
 presentation and the ensuing Q&A.
 
-### Deadlines TODO discuss these
+### Deadlines
 - Submission of talk: Dec 23rd, 2021
 - Selected talks announced: Dec 31st 2021
-- Conference dates 5 & 6 February 
+- Conference dates 5 & 6 February
 - The Nim language devroom is on the 5th
-- Video recording submission is mid-January (TODO specify time)
+- Video recording submission: January 22nd
+
+All deadline times are 23:59 UTC.
+
+### Final remarks
+
+- Make sure to check out the [FOSDEM Code of Conduct](https://fosdem.org/2022/practical/conduct/).
+- For any questions about this call for participation you can reach out to us in the [#fosdem channel](https://discord.com/channels/371759389889003530/909464670098833409) on our Nim Discord (also available through Matrix as "[Nim FOSDEM](https://matrix.to/#/#nim-fosdem:matrix.org)").
