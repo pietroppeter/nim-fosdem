@@ -61,7 +61,7 @@ presentation and the ensuing Q&A.
 - The Nim language devroom is on the 5th
 - Video recording submission: January 22nd
 
-All deadlines are intended by 23.59 UTC.
+All deadline times are 23.59 UTC.
 
 ### Final remarks
 
