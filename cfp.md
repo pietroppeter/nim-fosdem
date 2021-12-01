@@ -66,4 +66,4 @@ All deadline times are 23.59 UTC.
 ### Final remarks
 
 - make sure to check out [FOSDEM Code of Conduct](https://fosdem.org/2022/practical/conduct/)
-- for any questions about this call for participation you can reach us in #fosdem channel on our Nim Discord (also available in Matrix as "Nim FOSDEM")
+- for any questions about this call for participation you can reach us in [#fosdem channel](https://discord.com/channels/371759389889003530/909464670098833409) on our Nim Discord (also available in Matrix as "[Nim FOSDEM](https://matrix.to/#/#nim-fosdem:matrix.org)")
