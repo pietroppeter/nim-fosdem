@@ -59,7 +59,7 @@ presentation and the ensuing Q&A.
 - Selected talks announced: Dec 31st 2021
 - Conference dates 5 & 6 February 
 - The Nim language devroom is on the 5th
-- Video recording submission: January 15th
+- Video recording submission: January 22nd
 
 All deadlines are intended by 23.59 UTC.
 
