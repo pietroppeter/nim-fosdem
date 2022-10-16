@@ -15,7 +15,7 @@ Current material is for [Fosdem2023](https://fosdem.org/2023/). See folder [2022
 
 ## submission
 
-see [submission.md]
+see [submission.md](submission.md)
 
 * this year is in person
 * we should ask for half a day
