@@ -73,9 +73,9 @@ talks offering something for everyone, not only existing Nim programmers.
 
 ### Secondary contact
 
-**First name**: Piet
+**First name**: Pietro
 
-**Last name**: Roppeter
+**Last name**: Peterlongo
 
 **E-mail**: *we can skip this in this repo*
 
