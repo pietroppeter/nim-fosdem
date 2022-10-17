@@ -7,6 +7,7 @@ Current material is for [Fosdem2023](https://fosdem.org/2023/). See folder [2022
 ## timeline
 
 * [Sep 29] [call for devrooms](https://fosdem.org/2023/news/2022-09-29-call_for_devrooms/) published
+* [Oct 17] [forum post](https://forum.nim-lang.org/t/9534#62632) for visibility
 * [Oct 18 Tue] deadline for devroom proposal
 * [Oct 31] accepted developer rooms announced
 * [Nov 5 (or earlier)] developer rooms issue Calls for Participation
