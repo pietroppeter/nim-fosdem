@@ -1,10 +1,11 @@
 The details for submission as in: https://pretalx.fosdem.org/fosdem-2024-call-for-devrooms/cfp
 
 Todo:
-- [ ] Decide on which half day (Sat or Sun)?
-- [ ] primary and secondary account?
-- [ ] other volounters? (add pentabarfs?)
-- [ ] review text of submission
+- [ ] Decide on which half day (Sat or Sun)? I propose Sunday
+- [ ] Primary and secondary account? Same as last year
+- [ ] Other volounters? (add pentabarfs?) Anyone from the moderator team who
+  wants to join?
+- [ ] Review text of submission
 
 ## Project Details
 
