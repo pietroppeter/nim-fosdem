@@ -51,7 +51,7 @@ to be paired with our great friends, or some new ones.
 The Nim community has also organised its own conference (with editions in 2020,
 2021, and 2022) and the people behind this proposal have already organized a
 Nim Devroom at FOSDEM 2022 and co-organized both a virtual and physical room in
-the past. This makes us confident that the Nim language devroom at FOSDEM 2023
+the past. This makes us confident that the Nim language devroom at FOSDEM 2024
 will be a great success with high quality talks offering something for
 everyone, not only existing Nim programmers.
 
@@ -83,7 +83,7 @@ everyone, not only existing Nim programmers.
 
 **Additional pentabarf ids:**
 
-_none yet_
+pietroppeter
 
 ## Additional information
 
