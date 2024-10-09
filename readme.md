@@ -2,16 +2,16 @@
 
 repo to collect material for Nim Devroom submission at [Fosdem](https://fosdem.org).
 
-Current material is for [Fosdem2024](https://fosdem.org/2024/). See folders [2022](2022/README.md) and [2023](2023/readme.md) for previous years.
+Current material is for [Fosdem2025](https://fosdem.org/2025/). See folders [2022](2022/README.md), [2023](2023/readme.md), and [2024](2024/readme.md) for previous years.
 
 ## Timeline
 
-* [Sep 29] [Call for Devrooms](https://fosdem.org/2024/news/2023-09-29-devrooms-cfp/) published
-* [Oct 16 Mon] Deadline for devroom proposal
-* [Oct 31] accepted developer rooms announced
-* [Nov 5 (or earlier)] developer rooms issue Calls for Participation
+* [Sep 23] [Call for Devrooms](https://fosdem.org/2025/news/2024-09-23-devrooms-cfp/) published
+* [Oct 10 Thu] Deadline for devroom proposal
+* [Oct 21] accepted developer rooms announced
+* [Oct 30 (or earlier)] developer rooms issue Calls for Participation
 * [Dec 15 (or earlier)] developer rooms publish complete schedules
-* **Event:** Saturday 3rd and Sunday 4th February 2024 in Brussels, Belgium
+* **Event:** Saturday 1st and Sunday 2nd February 2025 in Brussels, Belgium
 
 ## Submission
 
